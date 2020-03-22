@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  background-color: #ABABAB;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+h1 {
+  color: #EDD3C4;
+  text-align: center;
+}
+
+p {
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+  font-size: 20px;
+}
+
+h2 {
+	color: #E6FDFF;
+	text-align: center;
+}
+
+h3 {
+	color: #11E9C2;
+	text-align: center;
+}
+
+h4 {
+	color: black;
+	text-align: center;
+	font-size: 20px;
+}
+
+#ideal_job {
+	text-align: center;
+}
+
+#Myersbriggs img {
+	float: left;
+	width: 100%;
+	object-fit: contain;
+}
+
+#versions {
+	border-radius: 20px;
+	border-style: double;
+	text-align: left;
+	background-color: #686E6E;
+}
+
+#versions h3 {
+	text-align: center;
+	color: black;
+}
+
+#versions img {
+	text-align: center;
+	align-items: center;
+	align-content: center;
+	width: 80%;
+	margin-left: 10%;
+}
+
+#Calendar {
+	text-align: center;
+}
+
+#myersbriggs {
+	text-align: center;
+}
+
+#learningstyles {
+	text-align: center;
+}
+
+#Psychometrics {
+	text-align: center;
+}
+
+#ContactDetails {
+	background-color: aliceblue;
+	border: double;
+	border-color: black;
+	height: 124px;
+	width: auto;
+}
+
+#ContactDetails img {
+	float: right;
+	height: 100%;
+	object-fit: contain;
+	margin-right: 25px;
+	border-radius: 30px;
+}
+
+#aboutme ul {
+	font-size: 20px;
+}
